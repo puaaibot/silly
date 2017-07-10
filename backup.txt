@@ -1,16 +1,3 @@
-
-{"server_port": 8081, "password": "fbec7a", "expired_on": 1499600175}
-{"server_port": 8082, "password": "49e853", "expired_on": 1499600182}
-{"server_port": 8083, "password": "ce0b9a", "expired_on": 1499600185}
-{"server_port": 8084, "password": "5d3ea7", "expired_on": 1499600187}
-{"server_port": 8085, "password": "f3283f", "expired_on": 1499600189}
-{"server_port": 8086, "password": "1aa766", "expired_on": 1499600191}
-{"server_port": 8087, "password": "647812", "expired_on": 1499600196}
-{"server_port": 8095, "password": "ca8982", "expired_on": 1499600870}
-{"server_port": 8096, "password": "ba1b62", "expired_on": 1499600873}
-{"server_port": 8097, "password": "e31bce", "expired_on": 1499600875}
-{"server_port": 8098, "password": "10c9f4", "expired_on": 1499600878}
-{"server_port": 8099, "password": "9e9fa4", "expired_on": 1499600881}
-{"server_port": 8100, "password": "2e1415", "expired_on": 1499600885}
 {"server_port": 8888, "password": "2922d7", "expired_on": 1585918809}
 {"server_port": 6005, "password": "ff6c53", "expired_on": 1507821958}
+{"server_port": 6006, "password": "e30992", "expired_on": 1499945799}
