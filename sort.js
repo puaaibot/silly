@@ -7,6 +7,7 @@ fs.readFile(backup, (err, file) => {
   const now = +new Date()
   const result = file
     .toString()
+    .trim()
     .split('\n')
     .map(line => JSON.parse(line))
     .filter(({ expired_on }) => expired_on * 1000 > now)
