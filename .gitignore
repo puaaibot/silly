@@ -1,4 +1,4 @@
 *
-!backup.txt
-!sort.js
 !.gitignore
+!backup.txt
+!*.js
