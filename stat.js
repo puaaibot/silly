@@ -13,8 +13,9 @@ fs.readFile(path.resolve(__dirname, 'backup.txt'), (err, file) => {
     .toString()
     .split('\n')
     .map(line => JSON.parse(line))
-    .map(({ server_port: port, expired_on }) => ({
+    .map(({ server_port: port, password, expired_on }) => ({
       port,
+      password,
       expired: formatTime(expired_on * 1000 - now),
     }))
   console.log(ports)
