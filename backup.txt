@@ -1,4 +1,4 @@
 {"server_port": 8888, "password": "2922d7", "expired_on": 1585918809}
-{"server_port": 6000, "password": "ebb8fb", "expired_on": 1502539618}
 {"server_port": 6005, "password": "ff6c53", "expired_on": 1507821958}
 {"server_port": 6007, "password": "7112d9", "expired_on": 1500083942}
+{"server_port": 6006, "password": "cc5b46", "expired_on": 1500255173}
